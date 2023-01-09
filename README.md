@@ -11,3 +11,6 @@ git add to add/include/track the folder or file to commit with the specified fil
 
 # Git commit -m (message)
 git commit to commit the added changes and -m is for the message you want to show what the changes are for
+
+# Git push 
+git push to post it in a live server where i.e where is repo is stored.
